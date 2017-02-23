@@ -1,0 +1,2 @@
+﻿<http://datadock.io/kal/data/id/resource/BANES_Subset_Of_English_Heritage_one.csv/row_2776> <http://datadock.io/kal/data/id/definition/location> "(51.38278, -2.36024)"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data/id/dataset/BANES_Subset_Of_English_Heritage_one.csv>.
+<http://datadock.io/kal/data/id/resource/BANES_Subset_Of_English_Heritage_one.csv/row_2820> <http://datadock.io/kal/data/id/definition/legacyuid> "510891"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/data/id/dataset/BANES_Subset_Of_English_Heritage_one.csv>.
