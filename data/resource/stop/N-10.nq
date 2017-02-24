@@ -1,0 +1,4 @@
+﻿<http://datadock.io/kal/data/id/resource/stop/N-10> <http://datadock.io/kal/data/id/definition/at_station> <http://datadock.io/kal/data/id/resource/station/tokyo-metro-%E9%A3%AF%E7%94%B0%E6%A9%8B%E9%A7%85> <http://datadock.io/kal/data/id/dataset/Tokyo Metro Stops.csv>.
+<http://datadock.io/kal/data/id/resource/stop/N-10> <http://datadock.io/kal/data/id/definition/on_line> <http://datadock.io/kal/data/id/resource/line/tokyo-metro-N> <http://datadock.io/kal/data/id/dataset/Tokyo Metro Stops.csv>.
+<http://datadock.io/kal/data/id/resource/stop/N-10> <http://datadock.io/kal/data/id/definition/seealso> <http://linkdata.org/resource/rdf1s3114i#N-10> <http://datadock.io/kal/data/id/dataset/Tokyo Metro Stops.csv>.
+<http://datadock.io/kal/data/id/resource/stop/N-10> <http://datadock.io/kal/data/id/definition/stop> "N-10"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data/id/dataset/Tokyo Metro Stops.csv>.
