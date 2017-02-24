@@ -337,3 +337,4 @@
 <http://datadock.io/kal/data/id/resource/stop/G-09> <http://datadock.io/kal/data/id/definition/stop> "G-09"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data/id/dataset/Tokyo%20Metro%20Stops.csv>.
 <http://datadock.io/kal/data/id/resource/stop/M-25> <http://datadock.io/kal/data/id/definition/seealso> <http://linkdata.org/resource/rdf1s3114i#M-25> <http://datadock.io/kal/data/id/dataset/Tokyo%20Metro%20Stops.csv>.
 <http://datadock.io/kal/data/id/resource/stop/Y-14> <http://datadock.io/kal/data/id/definition/seealso> <http://linkdata.org/resource/rdf1s3114i#Y-14> <http://datadock.io/kal/data/id/dataset/Tokyo%20Metro%20Stops.csv>.
+<http://datadock.io/kal/data/id/resource/tiny.csv/row_1> <http://datadock.io/kal/data/id/definition/issn> "0360"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/data/id/dataset/tiny.csv>.
