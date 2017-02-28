@@ -1,5 +1,4 @@
 ﻿<http://datadock.io/kal/data/> <http://purl.org/dc/terms/description> "A miscellany of linked open data." <http://datadock.io/kal/data/metadata>.
-<http://datadock.io/kal/data/id/dataset/tiny.csv> <http://rdfs.org/ns/void#exampleResource> <http://datadock.io/kal/data/id/resource/tiny.csv/row_1> <http://datadock.io/kal/data/id/dataset/tiny.csv/metadata>.
 <http://datadock.io/kal/data/id/resource/library/Gosforth> <http://datadock.io/kal/data/id/definition/longitude> "-1.622972"^^<http://www.w3.org/2001/XMLSchema#decimal> <http://datadock.io/kal/data/id/dataset/Newcastle%20Libraries%20List.csv>.
 <http://datadock.io/kal/data/id/resource/Newcastle%20Libraries%20Enquiries.csv/row_101> <http://datadock.io/kal/data/id/definition/month> "2016-08"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data/id/dataset/Newcastle%20Libraries%20Enquiries.csv>.
 <http://datadock.io/kal/data/id/resource/Newcastle%20Libraries%20Enquiries.csv/row_1073> <http://datadock.io/kal/data/id/definition/month> "2014-01"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data/id/dataset/Newcastle%20Libraries%20Enquiries.csv>.
