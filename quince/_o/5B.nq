@@ -20,4 +20,3 @@
 <http://datadock.io/kal/data/id/resource/stop/F-16> <http://datadock.io/kal/data/id/definition/seealso> <http://linkdata.org/resource/rdf1s3114i#F-16> <http://datadock.io/kal/data/id/dataset/Tokyo%20Metro%20Stops.csv>.
 <http://datadock.io/kal/data/id/resource/stop/N-16> <http://datadock.io/kal/data/id/dataset/tokyo_metro_stops.csv#seealso> <http://linkdata.org/resource/rdf1s3114i#N-16> <http://datadock.io/kal/data/id/dataset/tokyo_metro_stops.csv>.
 <http://datadock.io/kal/data/id/resource/stop/N-16> <http://datadock.io/kal/data/id/definition/seealso> <http://linkdata.org/resource/rdf1s3114i#N-16> <http://datadock.io/kal/data/id/dataset/Tokyo%20Metro%20Stops.csv>.
-<http://datadock.io/kal/data/id/resource/tokyo_metro_stations.csv/row_24> <http://datadock.io/kal/data/id/definition/station> "tokyo-metro-新中野駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data/id/dataset/tokyo_metro_stations.csv>.

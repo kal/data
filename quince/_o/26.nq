@@ -1,4 +1,5 @@
-﻿<http://datadock.io/kal/data/id/definition/wi-fi_provision> <http://www.w3.org/2000/01/rdf-schema#label> "Wi-Fi Provision"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data/definitions>.
+﻿<http://datadock.io/kal/data/id/definition/station_name> <http://www.w3.org/2000/01/rdf-schema#label> "Station Name"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data/definitions>.
+<http://datadock.io/kal/data/id/definition/wi-fi_provision> <http://www.w3.org/2000/01/rdf-schema#label> "Wi-Fi Provision"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data/definitions>.
 <http://datadock.io/kal/data/id/resource/line/tokyo-metro-F> <http://datadock.io/kal/data/id/definition/line_colour> "brown"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data/id/dataset/Tokyo%20Metro%20Lines.csv>.
 <http://datadock.io/kal/data/id/resource/Newcastle%20Libraries%20Enquiries.csv/row_115> <http://datadock.io/kal/data/id/definition/enquiries> "5043"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/data/id/dataset/Newcastle%20Libraries%20Enquiries.csv>.
 <http://datadock.io/kal/data/id/resource/Newcastle%20Libraries%20Enquiries.csv/row_365> <http://datadock.io/kal/data/id/definition/enquiries> "1596"^^<http://www.w3.org/2001/XMLSchema#integer> <http://datadock.io/kal/data/id/dataset/Newcastle%20Libraries%20Enquiries.csv>.
@@ -22,4 +23,3 @@
 <http://datadock.io/kal/data/id/resource/stop/T-12> <http://datadock.io/kal/data/id/definition/seealso> <http://linkdata.org/resource/rdf1s3114i#T-12> <http://datadock.io/kal/data/id/dataset/Tokyo%20Metro%20Stops.csv>.
 <http://datadock.io/kal/data/id/resource/stop/Y-15> <http://datadock.io/kal/data/id/dataset/tokyo_metro_stops.csv#seealso> <http://linkdata.org/resource/rdf1s3114i#Y-15> <http://datadock.io/kal/data/id/dataset/tokyo_metro_stops.csv>.
 <http://datadock.io/kal/data/id/resource/stop/Y-15> <http://datadock.io/kal/data/id/definition/seealso> <http://linkdata.org/resource/rdf1s3114i#Y-15> <http://datadock.io/kal/data/id/dataset/Tokyo%20Metro%20Stops.csv>.
-<http://datadock.io/kal/data/id/resource/tokyo_metro_stations.csv/row_108> <http://datadock.io/kal/data/id/definition/station> "tokyo-metro-西日暮里駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data/id/dataset/tokyo_metro_stations.csv>.
