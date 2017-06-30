@@ -22,3 +22,5 @@
 <http://datadock.io/kal/data/id/resource/stop/C-12> <http://datadock.io/kal/data/id/definition/seealso> <http://linkdata.org/resource/rdf1s3114i#C-12> <http://datadock.io/kal/data/id/dataset/Tokyo%20Metro%20Stops.csv>.
 <http://datadock.io/kal/data/id/resource/stop/C-14> <http://datadock.io/kal/data/id/definition/seealso> <http://linkdata.org/resource/rdf1s3114i#C-14> <http://datadock.io/kal/data/id/dataset/Tokyo%20Metro%20Stops.csv>.
 <http://datadock.io/kal/data/id/resource/stop/Z-03> <http://datadock.io/kal/data/id/definition/seealso> <http://linkdata.org/resource/rdf1s3114i#Z-03> <http://datadock.io/kal/data/id/dataset/Tokyo%20Metro%20Stops.csv>.
+<http://datadock.io/kal/data/id/resource/tokyo_metro_stations.csv/row_36> <http://datadock.io/kal/data/id/definition/station_name_english> "Tokyo"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data/id/dataset/tokyo_metro_stations.csv>.
+<http://datadock.io/kal/data/id/resource/tokyo_metro_stations.csv/row_59> <http://datadock.io/kal/data/id/definition/station_name> "八丁堀駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data/id/dataset/tokyo_metro_stations.csv>.

@@ -68,3 +68,4 @@
 <http://datadock.io/kal/data/id/resource/stop/H-05> <http://datadock.io/kal/data/id/definition/stop> "H-05"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data/id/dataset/Tokyo%20Metro%20Stops.csv>.
 <http://datadock.io/kal/data/id/resource/stop/M-11> <http://datadock.io/kal/data/id/definition/seealso> <http://linkdata.org/resource/rdf1s3114i#M-11> <http://datadock.io/kal/data/id/dataset/Tokyo%20Metro%20Stops.csv>.
 <http://datadock.io/kal/data/id/resource/stop/T-20> <http://datadock.io/kal/data/id/definition/seealso> <http://linkdata.org/resource/rdf1s3114i#T-20> <http://datadock.io/kal/data/id/dataset/Tokyo%20Metro%20Stops.csv>.
+<http://datadock.io/kal/data/id/resource/tokyo_metro_stations.csv/row_22> <http://datadock.io/kal/data/id/definition/station_name_english> "Shin-Kōenji"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data/id/dataset/tokyo_metro_stations.csv>.

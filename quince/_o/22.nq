@@ -323,3 +323,4 @@
 <http://datadock.io/kal/data/id/resource/stop/G-10> <http://datadock.io/kal/data/id/definition/stop> "G-10"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data/id/dataset/Tokyo%20Metro%20Stops.csv>.
 <http://datadock.io/kal/data/id/resource/stop/T-13> <http://datadock.io/kal/data/id/definition/at_station> <http://datadock.io/kal/data/id/resource/station/tokyo-metro-%E6%9C%A8%E5%A0%B4%E9%A7%85> <http://datadock.io/kal/data/id/dataset/Tokyo%20Metro%20Stops.csv>.
 <http://datadock.io/kal/data/id/resource/stop/T-22> <http://datadock.io/kal/data/id/definition/stop> "T-22"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data/id/dataset/Tokyo%20Metro%20Stops.csv>.
+<http://datadock.io/kal/data/id/resource/tokyo_metro_stations.csv/row_148> <http://datadock.io/kal/data/id/definition/station_name> "錦糸町駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data/id/dataset/tokyo_metro_stations.csv>.

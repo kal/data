@@ -33,3 +33,5 @@
 <http://datadock.io/kal/data/id/resource/stop/N-13> <http://datadock.io/kal/data/id/definition/stop> "N-13"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data/id/dataset/Tokyo%20Metro%20Stops.csv>.
 <http://datadock.io/kal/data/id/resource/stop/Y-08> <http://datadock.io/kal/data/id/definition/stop> "Y-08"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data/id/dataset/Tokyo%20Metro%20Stops.csv>.
 <http://datadock.io/kal/data/id/resource/stop/Y-23> <http://datadock.io/kal/data/id/definition/stop> "Y-23"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data/id/dataset/Tokyo%20Metro%20Stops.csv>.
+<http://datadock.io/kal/data/id/resource/tokyo_metro_stations.csv/row_152> <http://datadock.io/kal/data/id/definition/station> "tokyo-metro-白金高輪駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data/id/dataset/tokyo_metro_stations.csv>.
+<http://datadock.io/kal/data/id/resource/tokyo_metro_stations.csv/row_84> <http://datadock.io/kal/data/id/definition/station> "tokyo-metro-南砂町駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data/id/dataset/tokyo_metro_stations.csv>.

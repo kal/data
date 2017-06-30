@@ -51,3 +51,4 @@
 <http://datadock.io/kal/data/id/resource/stop/H-09> <http://datadock.io/kal/data/id/definition/seealso> <http://linkdata.org/resource/rdf1s3114i#H-09> <http://datadock.io/kal/data/id/dataset/Tokyo%20Metro%20Stops.csv>.
 <http://datadock.io/kal/data/id/resource/stop/H-10> <http://datadock.io/kal/data/id/definition/stop> "H-10"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data/id/dataset/Tokyo%20Metro%20Stops.csv>.
 <http://datadock.io/kal/data/id/resource/stop/M-18> <http://datadock.io/kal/data/id/definition/seealso> <http://linkdata.org/resource/rdf1s3114i#M-18> <http://datadock.io/kal/data/id/dataset/Tokyo%20Metro%20Stops.csv>.
+<http://datadock.io/kal/data/id/resource/tokyo_metro_stations.csv/row_23> <http://datadock.io/kal/data/id/definition/station_name_english> "Higashi-Kōenji"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data/id/dataset/tokyo_metro_stations.csv>.

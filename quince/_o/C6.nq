@@ -23,3 +23,4 @@
 <http://datadock.io/kal/data/id/resource/stop/G-01> <http://datadock.io/kal/data/id/definition/seealso> <http://linkdata.org/resource/rdf1s3114i#G-01> <http://datadock.io/kal/data/id/dataset/Tokyo%20Metro%20Stops.csv>.
 <http://datadock.io/kal/data/id/resource/stop/H-04> <http://datadock.io/kal/data/id/definition/seealso> <http://linkdata.org/resource/rdf1s3114i#H-04> <http://datadock.io/kal/data/id/dataset/Tokyo%20Metro%20Stops.csv>.
 <http://datadock.io/kal/data/id/resource/stop/m-03> <http://datadock.io/kal/data/id/definition/at_station> <http://datadock.io/kal/data/id/resource/station/tokyo-metro-%E6%96%B9%E5%8D%97%E7%94%BA%E9%A7%85> <http://datadock.io/kal/data/id/dataset/Tokyo%20Metro%20Stops.csv>.
+<http://datadock.io/kal/data/id/resource/tokyo_metro_stations.csv/row_38> <http://datadock.io/kal/data/id/definition/station_name> "淡路町駅"^^<http://www.w3.org/2001/XMLSchema#string> <http://datadock.io/kal/data/id/dataset/tokyo_metro_stations.csv>.
